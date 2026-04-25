@@ -19,3 +19,4 @@ Thumbs.db
 
 # k6 results
 k6-results.json
+actions-runner/
